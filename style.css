@@ -1,0 +1,49 @@
+#header {
+    background-color: darkgray;
+    border-radius: 20px;
+    border: 5px gray solid;
+}
+
+#title {
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
+#googleIMG {
+    width: 200px;
+    height: 200px;
+}
+
+#mobileNetIMG {
+    color: rgb(0, 0, 0);
+    border: 3px blue solid;
+}
+
+#items {
+    background-color: darkgray;
+    width: 100%;
+    height: 80%;
+    border-radius: 20px;
+    border: 5px gray solid;
+}
+img {
+    margin-top: 15px;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    border:5px blue solid;
+}
+
+#item1 {
+    background-color: gray;
+    border: 5px black solid;
+    border-radius: 20px;
+    float: left;
+    width: 100%;
+    height: 350px;
+    text-align: left;
+}
+
+.results{ 
+    font-size: 12px;
+}
